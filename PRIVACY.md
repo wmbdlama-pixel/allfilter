@@ -41,19 +41,56 @@ AllFilter makes no network connections. It works with no internet connection at 
 
 ## Third parties
 
-AllFilter shares no data with anyone, because it collects none. No third party receives
-data through this add-in.
+AllFilter shares no data with any third party, because it collects none.
+
+Specifically, the add-in contains **no analytics tools, no advertising networks and no
+third-party SDKs**, and wmbdlama has no parent, subsidiary or affiliated entity that
+receives data through it.
+
+Should any future version of AllFilter ever share data with a third party, that third party
+will be required to provide the same protection of that data as is stated in this policy,
+and this policy will be updated before the change takes effect.
+
+## Support correspondence
+
+The add-in itself sends nothing to us. However, if you choose to contact support, you
+decide to send us something, and that is covered here.
+
+**What we receive.** Whatever you put in your message: your email address, the text of your
+report, and any attachment you choose to send — for example a screenshot or a cut-down
+sample model.
+
+**Why.** Solely to reproduce and resolve the issue you reported, and to reply to you.
+
+**What we do not do.** We do not use support material for anything else. It is not analysed
+for marketing, not used to train anything, not published, and not passed to any third party.
+
+**How long we keep it.** Correspondence and attachments are deleted within 12 months of the
+issue being closed, and sooner on request. Sample models are deleted as soon as the issue is
+resolved.
+
+**Nothing is required.** You are never obliged to send a model or any other file. A written
+description is always enough to open a support request.
 
 ## Data retention and deletion
 
-As AllFilter stores no data, there is nothing to retain and nothing to delete. Uninstalling
-the add-in removes it completely.
+AllFilter stores no data, so there is nothing for the add-in to retain or delete.
+Uninstalling it removes it completely.
 
-## Your consent
+For support correspondence, the retention periods above apply.
 
-Because no personal data is collected, there is no consent to grant or revoke. If you have
-questions about this policy, write to **wmbdlama@gmail.com** and we will answer within two
-business days.
+## Your rights and your consent
+
+Because the add-in collects no personal data, there is no consent to grant or revoke for
+using it.
+
+If you have written to support, you may at any time ask us to confirm what we hold, correct
+it, or delete it. Write to **wmbdlama@gmail.com** with the request. We answer within two
+business days and complete deletion requests within 30 days.
+
+As wmbdlama is based in Germany, users in the European Union also hold the rights granted by
+the GDPR, including access, rectification, erasure, restriction of processing, and the right
+to lodge a complaint with a supervisory authority.
 
 ## Purchases
 
